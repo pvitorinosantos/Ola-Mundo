@@ -5,4 +5,4 @@
 
 # Promovendo alterações a titulo de testegit
 
-# Salvando modificações no Git*********
+# Salvando modificações no Git*
