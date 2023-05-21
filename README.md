@@ -6,3 +6,6 @@
 # Promovendo alterações a titulo de testegit
 
 # Salvando modificações no Git*
+# Uso do comando git restore
+
+# Comando git push
