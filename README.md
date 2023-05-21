@@ -10,3 +10,4 @@
 
 # Comando git push
 # Comando git pull
+# comando git fetch
